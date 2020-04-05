@@ -1,0 +1,13 @@
+
+[
+    {"question" : "krzyczec" , "answer" : ["cry", "shout", "scream"] },
+    {"question" : "zlapac" , "answer" : ["catch", "grab"] },
+    {"question" : "powtorzyc" , "answer" : ["replay", "repeat"] },
+    {"question" : "zobaczyc" , "answer" : ["see", "notice"] },
+    {"question" : "zniszczyc" , "answer" : ["devastate", "destroy"] },
+    {"question" : "kupic" , "answer" : ["buy", "purchase"] },
+    {"question" : "ukrasc" , "answer" : ["steal", "pinch", "lift"] },
+    {"question" : "zmienic" , "answer" : ["change", "swap"] },
+    {"question" : "ugotowac" , "answer" : ["cook", "prepare"] },
+    {"question" : "dostac" , "answer" : ["get", "reach", "receive"] }
+]
